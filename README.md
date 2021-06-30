@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a fullstack software engineer from Seattle
-- 🔭 Working on multiple frontend and backend projects using React and Nodejs
+- 🔭 Currently working on multiple frontend and backend projects using React and Nodejs
 - 🌱 Learning design patterns in depth
 <br>
 ## Connect with me
